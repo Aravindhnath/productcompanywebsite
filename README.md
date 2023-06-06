@@ -449,23 +449,23 @@ body {
 
 ### Home Page:
 
-![output](./Output/exp7_output1.png)
+![output](./companywebsite/Output/exp7_output1.png)
 
 ### Product Page:
 
-![output](./Output/exp7_outpu21.png)
+![output](./companywebsite/img/exp7_output2.png)
 
 ### People Page:
 
-![output](./Output/exp7_output3.png)
+![output](./companywebsite/Output/exp7_output3.png)
 
 ### Contactus Page:
 
-![output](./Output/exp7_output4.png)
+![output](./companywebsite/Output/exp7_output4.png)
 
 ## Server Output:
 
-![output](./Output/exp7_serveroutput.png)
+![output](./companywebsite/Output/exp7_serveroutput.png)
 
 ## Result:
 
