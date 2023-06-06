@@ -453,7 +453,7 @@ body {
 
 ### Product Page:
 
-![output](./companywebsite/Output/img/exp7_output2.png)
+![output](./companywebsite/Output/exp7_output2.png)
 
 ### People Page:
 
